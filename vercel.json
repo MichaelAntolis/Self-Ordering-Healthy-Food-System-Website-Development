@@ -14,7 +14,6 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://self-ordering-healthy-food.vercel.app",
         "APP_KEY": "base64:9d5o9F7VIt2BX492fXPLCRCtUETn/W+pEFIllbekYnY=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
